@@ -1,9 +1,9 @@
 {
-  "name": "express-typescript-chomba",
+  "name": "voila-express-ts-uncledevhq",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/chombazm/typescript-express-chomba.git",
-  "author": "chomba <chomba@bongohive.co.zm>",
+  "author": "chomba <dev.chomba@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/index.ts",
@@ -21,7 +21,6 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "nanoid": "^4.0.0"
+    "express": "^4.18.2"
   }
 }
